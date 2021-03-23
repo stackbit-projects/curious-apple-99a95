@@ -2,7 +2,7 @@
 title: lorem-ipsum
 date: '2021-03-23'
 draft: false
-featured: false
+featured: true
 weight: 0
 ---
 ## Lorem ipsum
